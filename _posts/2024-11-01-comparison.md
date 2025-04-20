@@ -1,12 +1,12 @@
 ---
-title: Research
+title: Solar Panel Comparison
 author: Larry Ciscon
 date: 2024-09-01
 category: Requirements
 layout: post
 ---
 
-## Solar Panel Comparison 
+Below are comparisons of the features and specs on a number of solar panel options on the market.
 
 Download link: <a href="../../assets/data/MRTPanelComparisonV1.xlsx" download="MRTPanelComparisonV1.xlsx">Click here to download</a>
 
