@@ -12,9 +12,7 @@ This project details the preparations for a cross country roadtrip in an Electri
 
 This site will document all of the minutia of planning and engineering step-by-step.  We will break down and analyze everything from energy consumption to solar panel comparisons, deployment strategies, supply selection, electronics design, and everything else required. 
 
-And once we're ready for the trip, we will document the whole thing - including all the problems encountered along the way.
-
-Whether we succeed or fail, we will learn from the journey.
+And once we're ready for the trip, we will document the whole thing - including all the problems encountered along the way. Whether we succeed or fail, we will learn from the journey.
 
 Join us!
 
