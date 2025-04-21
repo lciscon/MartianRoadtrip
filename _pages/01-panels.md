@@ -42,6 +42,10 @@ We then soldered these segments together, glued them onto the twinwall backing, 
 
 ![Martian Rover](/MartianRoadtrip/assets/images/IMG_8201.JPG)
 
+You can see a timelapse of the assembly process for the first prototype panel here:
+
+[![Watch the video](https://www.youtube.com/watch?v=iIQGkL298sM/default.jpg)](https://youtu.be/iIQGkL298sM)
+
 The current version incorporates a fabric edge. However we're replacing that with a plastic polycarbonate trim on future versions. We have purchased enough cells to build a few towers and we are starting to wramp up production.
 
 The panels will be assembled into "units" comprised of four panels.  The panels in each "unit" will be attached together with hinges on the long and short edges such that they fold up into a stack for easy storage. Each "unit" comprises on wing of the tower.
