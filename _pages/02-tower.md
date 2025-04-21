@@ -38,6 +38,7 @@ At the moment the prototype have polycarbonate panels that don't have real cells
 
 The combined weight of the tower and panels (including all of the motors and electronics inside) is currently 22lbs.  The real cells should add only another 2-3lbs of weight.  So it should end up at roughly 25lbs. **The 1.2kW towers will be about 50% bigger than the current prototype (surface area vs volume).  But even if they weight twice as much as the current tower (50lbs) then eight of them would weight a combined total of 400lbs.  That is well within our weight budget.**
 
+***
 
 
 

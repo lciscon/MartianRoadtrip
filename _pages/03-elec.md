@@ -25,3 +25,4 @@ Also the tower will incorporate a tracking camera and additional sensors to moni
 The de-inverter built into the car converts the AC back into DC and into the batteries.  In theory the built-in AC-DC in the Tesla is about 95% efficient.  **So the combined system efficiency should be above 90%.**  That should be acceptable for what we need.
 
 
+***
