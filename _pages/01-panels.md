@@ -44,7 +44,7 @@ We then soldered these segments together, glued them onto the twinwall backing, 
 
 You can see a timelapse of the assembly process for the first prototype panel here:
 
-[![Watch the video](https://www.youtube.com/watch?v=iIQGkL298sM/default.jpg)](https://youtu.be/iIQGkL298sM)
+[![Watch the video](https://www.youtube.com/vi/iIQGkL298sM/default.jpg)](https://youtu.be/iIQGkL298sM)
 
 The current version incorporates a fabric edge. However we're replacing that with a plastic polycarbonate trim on future versions. We have purchased enough cells to build a few towers and we are starting to wramp up production.
 
