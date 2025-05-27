@@ -6,18 +6,20 @@ category: Resources
 layout: post
 ---
 
+## YouTube Videos
+
+[Martian Roadtrip Channel](https://www.youtube.com/@martianroadtrip)
+
+Episode 1:
+
+{% include youtube.html id="zYHZ3sSdoac" %}
+
 ## LinkedIn Posts
 
 [Martian Roadtrip Introduction](https://www.linkedin.com/feed/update/urn:li:activity:7233625442480496641/)
 
 [Martian Roadtrip Power](https://www.linkedin.com/feed/update/urn:li:activity:7236554837046218752/)
 
-
-## YouTube Videos
-
-[Martian Roadtrip Channel](https://www.youtube.com/@martianroadtrip)
-
-[Martian Roadtrip Episode 1](https://www.youtube.com/playlist?list=PL1Zi6KpWfD8iVpOzrdpXz5g86jV4EjlZx)
 
 ## Documents
 
