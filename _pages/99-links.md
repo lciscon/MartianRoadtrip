@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Links & Info
 author: Larry Ciscon
 date: 2024-09-01
 category: Resources
@@ -15,7 +15,12 @@ layout: post
 
 ## YouTube Videos
 
+[Martian Roadtrip Channel](https://www.youtube.com/@martianroadtrip)
+
 [Martian Roadtrip Episode 1](https://www.youtube.com/playlist?list=PL1Zi6KpWfD8iVpOzrdpXz5g86jV4EjlZx)
+
+## Documents
+
 
 
 ***
