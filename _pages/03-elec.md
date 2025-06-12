@@ -12,11 +12,13 @@ The solar panels put out DC voltage within a specific range.  Our 600W tower put
 
 The most efficient solution is to feed the DC directly into the car.  This is possible if we boost the voltage to 400V and treat it like a DC fast charge station. This is possible since the NACS standard allows for power input down to a few kilowatts.  Doing it this way we should be able to achieve efficiencies in the 97% range.  We explored this option for awhile, but finally determined the unknowns and associated complexities of working with the high voltages were not worth it for now.
 
-The solution we settled upon for the first iteration is to use a high efficiency custom microinverter design coupled with a Level 2 EV charger. 
+The solution we settled upon for the first iteration is to use a high efficiency custom microinverter design coupled with a Level 2 EV charger. The microinverter design we chose has a 97% efficiency. 
+
+![Martian Rover](/MartianRoadtrip/assets/images/SingleChargerDiagram.png)
+
+For now we're testing a sngle 1.6kW inverter system.  However ultimately each tower will have its own microinverter built **directly into the tower.** .  The AC outputs of each tower will be combined together and then fed into the car.  The prototocol converter manages the overall power delivery to the car.
 
 ![Martian Rover](/MartianRoadtrip/assets/images/ControllerDiagram.png)
-
-The microinverter design we chose has a 97% efficiency. Each tower will have its own microinverter.  The AC outputs will be combined together and fed into the Level 2 EV charger and then fed into the car.  Ultimately the microinverters will be built **directly into the tower.** 
 
 Since we will not have any additional batteries or capacitors to buffer the power output from the panels we will need to constantly monitor each stage of the process and dynamically control the charge rage to the car.  **That requires us to tap in directly to the MPPT and DC boost logic as well as the EV communications protocol.**  That is one key reason we are building and using electronics that we can customize at the hardware and firmware level.
 
