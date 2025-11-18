@@ -23,6 +23,6 @@ Episode 1:
 
 ## Documents
 
-
+![Firmware](/MartianRoadtrip/assets/data/firmware.bin)
 
 ***
